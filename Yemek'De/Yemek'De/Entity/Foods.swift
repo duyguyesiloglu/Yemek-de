@@ -1,10 +1,3 @@
-//
-//  Foods.swift
-//  FoodOrderApp
-//
-//  Created by Duygu Yesiloglu on 11.10.2023.
-//
-
 import Foundation
 
 class Foods: Codable {
